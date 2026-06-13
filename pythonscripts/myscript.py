@@ -44,3 +44,5 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
 	raise SystemExit(main(sys.argv[1:]))
+
+print("hello brotha!")
